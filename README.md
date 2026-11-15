@@ -4,6 +4,8 @@
 
 ## Upload
 
+**Retry after only pin 1 imported:** use [the newer 39-pin CSV](pinterest-retry-39-pins.csv) instead. It excludes pin 1, leaves 14 pins without links and gives the other 25 unique Etsy tracking links. See [retry instructions](RETRY-UPLOAD.md).
+
 1. Download **pinterest-bulk-upload.csv**.
 2. In your Pinterest business account on desktop, open **Settings → Import content → Upload .csv or .txt file** and upload the CSV.
 3. Review Pinterest's processing confirmation and the imported schedule. This repository does not publish or schedule anything by itself.
