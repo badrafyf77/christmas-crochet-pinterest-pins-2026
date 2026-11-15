@@ -20,6 +20,16 @@ All 40 destination links use the supplied Etsy listing. Four pins (4, 14, 24 and
 
 ## Images
 
+### Preview the 40 pins
+
+![Day 1: ten varied Christmas crochet pins](previews/day-1.jpg)
+
+![Day 2: ten varied Christmas crochet pins](previews/day-2.jpg)
+
+![Day 3: ten varied Christmas crochet pins](previews/day-3.jpg)
+
+![Day 4: ten varied Christmas crochet pins](previews/day-4.jpg)
+
 Each PNG is a distinct 2:3 vertical creative. The mix includes photographic lifestyle scenes, two-, three- and four-photo collages, center text panels, candy-cane frames, scrapbook layouts, macro detail, pastel, retro, folk, minimal and editorial designs. The images were generated and refined with imagegen using the supplied crochet guide's gnome as the reference; they are styled visualizations rather than documentary product photographs. Shape, stitch texture, colors and lighting were polished at the owner's request. Actual crochet results depend on materials and technique.
 
 Only marketing images and campaign metadata are public here. The paid PDF pattern is not included. Keep this repository public and the image files available while Pinterest imports them.
